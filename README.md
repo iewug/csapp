@@ -9,4 +9,6 @@ csapp的lab
 - 2021年9月 data lab
 - 2021年10月 bomb lab
 - 2021年10月 attack lab
+- 2021年10月 architecture lab
+- 2021年11月 cache lab
 
