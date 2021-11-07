@@ -512,7 +512,10 @@ miss数1992，刚刚够！
 有意思的是：
 
 - wsl2测试part B的速度十分慢，会产生超时的情况。
-- Windows下mingw缺少<sys/wait.h>库文件，却可以编译test-trans.c文件
+
+- Windows下mingw缺少<sys/wait.h>库文件，却可以编译test-trans.c文件。
+
+  妙啊，原来编辑器是在windows环境下所以找不到这个库文件，但是终端是在linux环境下，所以可以成功编译
 
 预计接下来：
 
