@@ -478,6 +478,6 @@ void sigchld_handler(int sig)
 可能接下来：
 
 - malloc lab？
-- 吃番茄买的鱼籽村！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+- 吃番茄买的鱼籽村！！！
 
 >  P.S. I've learnt ps though I don't have PS.
